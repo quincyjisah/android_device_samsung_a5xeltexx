@@ -1,3 +1,5 @@
+> **Legacy device tree:** this repository targets the Samsung Galaxy A5 2016 (SM-A510F / SM-A510M / SM-A510Y) on LineageOS 15.1. It is not an S20 FE device tree and should not be used as the base for Omega/S20 FE work.
+
 Copyright (C) 2016-2017 Apavayan Sinha <info@apavayan.com>
 <br>
 Copyright (C) 2017-2018 Jan Altensen <info@stricted.net>
