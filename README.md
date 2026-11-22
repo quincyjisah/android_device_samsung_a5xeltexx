@@ -1,3 +1,13 @@
+<div align="center"><img src="assets/project-cover.svg" alt="Samsung Galaxy A5 device tree cover" width="100%"></div>
+
+# Samsung Galaxy A5 2016 — Legacy Device Tree
+
+**Purpose:** Device-specific Android build configuration for the Samsung Galaxy A5 2016.
+**Built for:** ROM maintainers and Android developers working on SM-A510F, SM-A510M and SM-A510Y variants.
+**Stage:** Legacy LineageOS 15.1 branch. This is not an S20 FE device tree or a modern Android 16 base.
+
+---
+
 > **Legacy device tree:** this repository targets the Samsung Galaxy A5 2016 (SM-A510F / SM-A510M / SM-A510Y) on LineageOS 15.1. It is not an S20 FE device tree and should not be used as the base for Omega/S20 FE work.
 
 Copyright (C) 2016-2017 Apavayan Sinha <info@apavayan.com>
